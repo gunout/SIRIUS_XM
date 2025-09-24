@@ -8,7 +8,7 @@ RAPPORT COMPLET D'ANALYSE DE SIRIUS XM
 📈 Creating visualizations...
 
 
-COMPLETE SIRIUS XM ANALYSIS REPORT
+# COMPLETE SIRIUS XM ANALYSIS REPORT
 
 
 📻 Sirius XM Global (United States)
@@ -84,7 +84,7 @@ Digital streaming service, growing audience
 📊 Volatility: 66.97%
 
 
-ADVANCED BENCHMARKING
+# ADVANCED BENCHMARKING
 
 
 🚀 Strongest growth: Sirius XM Streaming (+10.0M)
@@ -110,7 +110,7 @@ Total Audience 2030: 67.9M
 Network Growth: -3.0M (-4.2%)
 
 
-RECOMMENDATIONS STRATEGIC
+# RECOMMENDATIONS STRATEGIC
 
 
 🔸 Sirius XM Streaming shows strong growth. Recommendations:
